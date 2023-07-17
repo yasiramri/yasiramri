@@ -1,4 +1,7 @@
 ### Hi there 👋
+Perkenalkan nama saya **Muhammad Yasir Amri**.\
+
+I’m a 19 years old student at **Vocational School of IPB University** with majoring **Software Engineering Technology**. I’m highly motivated to constantly develop skills and learning new things in every opportunities. Enthusiast in technology, and developing creative ways to solve problem.
 
 <!--
 **yasiramri/yasiramri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
