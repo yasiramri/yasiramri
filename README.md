@@ -1,5 +1,5 @@
 ### Hello, Fellas! 👋
-Let me introduce my self my name is **Muhammad Yasir Amri**.\
+Let me introduce my self my name is **Muhammad Yasir Amri**.
 
 I’m a 19 years old student at **Vocational School of IPB University** with majoring **Software Engineering Technology**. I’m highly motivated to constantly develop skills and learning new things in every opportunities. Enthusiast in technology, and developing creative ways to solve problem.
 
