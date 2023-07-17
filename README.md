@@ -5,6 +5,13 @@ I’m a 19 years old student at **Vocational School of IPB University** with maj
 
 My Linkedin Account [Linkedin](https://www.linkedin.com/in/yasiramrr/)
 
+<p align="left">
+<a href="https://github.com/yasiramri">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yasiramri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yasiramri&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 <!--
 **yasiramri/yasiramri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
