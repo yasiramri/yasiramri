@@ -7,7 +7,7 @@ My Linkedin Account [Linkedin](https://www.linkedin.com/in/yasiramrr/)
 <br>
 <br>
 
-| <a href="https://github.com/yasiramri/github-readme-stats"><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yasiramri&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="Yasir's github stats" /></a> | <a href="https://github.com/yasiramri/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasiramri&layout=compact&theme=dark&hide_border=true" /></a> |
+| <a href="https://github.com/yasiramri"><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yasiramri&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="Yasir's github stats" /></a> | <a href="https://github.com/yasiramri"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasiramri&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <!--
