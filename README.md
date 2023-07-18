@@ -4,14 +4,11 @@ Let me introduce my self my name is **Muhammad Yasir Amri**.
 I’m a 19 years old student at **Vocational School of IPB University** with majoring **Software Engineering Technology**. I’m highly motivated to constantly develop skills and learning new things in every opportunities. Enthusiast in technology, and developing creative ways to solve problem.
 
 My Linkedin Account [Linkedin](https://www.linkedin.com/in/yasiramrr/)
+<br>
+<br>
 
-##Github Statistic
-<p align="left">
-<a href="https://github.com/yasiramri">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yasiramri&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yasiramri&layout=compact&langs_count=8&theme=default)" />
-</a>
-</p>
+| <a href="https://github.com/yasiramri/github-readme-stats"><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yasiramri&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="Yasir's github stats" /></a> | <a href="https://github.com/yasiramri/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasiramri&layout=compact&theme=dark&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <!--
 **yasiramri/yasiramri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
