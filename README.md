@@ -34,11 +34,17 @@ I’m a 19 years old student at **Vocational School of IPB University** with maj
 ## ##
 <p align="center">
   <i>You can connect with me here!</i>
+<!--Mail-->
   <p align="center">
      <a href="mailto:yasiramrr@outlook.com" alt="Mail"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+<!--Linkedin-->
     <a href="https://www.linkedin.com/in/yasiramrr" alt="Linkedin"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<!--Github-->
     <a href="https://github.com/yasiramri" alt="GitHub"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
+<!--Behance-->
      <a href="https://www.behance.net/yasiramrr" alt="Behance"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" /></a>
+<!--Instagram-->
+     <a href="https://instagram.com/yasiramrr" alt="Instagram"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
   </p>
 </p>
 
