@@ -4,6 +4,8 @@ Let me introduce my self my name is **Muhammad Yasir Amri**.
 I’m a 19 years old student at **Vocational School of IPB University** with majoring **Software Engineering Technology**. I’m highly motivated to constantly develop skills and learning new things in every opportunities. Enthusiast in technology, and developing creative ways to solve problem.
 
 My Linkedin Account [Linkedin](https://www.linkedin.com/in/yasiramrr/)
+
+##Github Statistic
 <p align="left">
 <a href="https://github.com/yasiramri">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yasiramri&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
