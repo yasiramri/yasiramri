@@ -36,7 +36,7 @@ I’m a 19 years old student at **Vocational School of IPB University** with maj
   <i>You can connect with me here!</i>
 <!--Mail-->
   <p align="center">
-     <a href="mailto:yasiramrr@outlook.com" alt="Mail"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+     <a href=mailto:yasiramrr@hotmail.com alt="Mail"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
 <!--Linkedin-->
     <a href="https://www.linkedin.com/in/yasiramrr" alt="Linkedin"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <!--Github-->
