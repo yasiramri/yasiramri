@@ -8,22 +8,22 @@ I’m a 19 years old student at **Vocational School of IPB University** with maj
 - 🌱 I’m currently learning about Machine learning and AI
 
 ### Hard Skill
-<!--Java-->
-  <a href="https://www.java.com/en/"><img align="left" alt="Java" title="Java" width="16px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" /></a>
+<!--Java
+  <a href="https://www.java.com/en/"><img align="left" alt="Java" title="Java" width="16px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" /></a>-->
 <!--JavaSript-->
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-<!--NodeJS-->
-  <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="25px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
-<!--ReactJS-->
-  <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="25px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-<!--NextJS-->
-  <a href="https://nextjs.org/"><img align="left" alt="Next" title="Next (React SSR Framework)" width="25px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>
-<!--PHP-->
-  <a href="https://www.php.net/"><img align="left" alt="PHP" title="PHP" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" /></a>
-<!--Laravel-->
-  <a href="[https://www.php.net/](https://laravel.com/)"><img align="left" alt="Laravel" title="Laravel" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/240px-Laravel.svg.png" /></a>
-<!--Kotlin-->
-  <a href="#"><img align="left" alt="Kotlin" title="Kotlin" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" /></a>
+<!--NodeJS
+  <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="25px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>-->
+<!--ReactJS
+  <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="25px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>-->
+<!--NextJS
+  <a href="https://nextjs.org/"><img align="left" alt="Next" title="Next (React SSR Framework)" width="25px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>-->
+<!--PHP
+  <a href="https://www.php.net/"><img align="left" alt="PHP" title="PHP" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" /></a>-->
+<!--Laravel
+  <a href="[https://www.php.net/](https://laravel.com/)"><img align="left" alt="Laravel" title="Laravel" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/240px-Laravel.svg.png" /></a>-->
+<!--Kotlin
+  <a href="#"><img align="left" alt="Kotlin" title="Kotlin" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" /></a>-->
 <!--MySql-->
    <a href="https://www.mysql.com/"><img align="left" alt="MySql" title="MySql" width="26px" src="https://www.citypng.com/public/uploads/preview/hd-mysql-dolphin-logo-sign-symbol-png-11662224927movyljfle3.png?v=2023070404" /></a>
 <!--Python-->
