@@ -5,7 +5,7 @@ I’m a 19 years old student at **Vocational School of IPB University** with maj
 
 
 - 📫 How to reach me: yasiramrr@hotmail.com  
-- 🌱 I’m currently learning about Machine learning and AI
+- 🌱 I’m currently learning about Machine learning and Web Developer
 
 ### Hard Skill
 <!--Java
