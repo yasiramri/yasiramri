@@ -1,4 +1,4 @@
-# Hello, Fellas!<img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px">
+# Hello, Fellas!<img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px"> <img alt="profile views" src="https://visitcount.itsvg.in/api?id=yasiramri&color=12&icon=5&pretty=true" align="right"/>
 Let me introduce my self my name is **Muhammad Yasir Amri**.
 
 I’m a 19 years old student at **Vocational School of IPB University** with majoring **Software Engineering Technology**. I am an avid Software Enginer learner because I'm fascinated by all the things computers can do.I find myself regularly trying to learn new language and techniques that I can implement in my projects. I’m highly motivated to constantly develop skills and learning new things in every opportunities. Enthusiast in technology, and developing creative ways to solve problem. Javascript was the language I started programming and MySQl for Data Analyst. Machine learning and AI has sparked my interest lately and I've been attending bootcamps and webinars to learn more about this topic.
@@ -7,7 +7,7 @@ I’m a 19 years old student at **Vocational School of IPB University** with maj
 - 📫 How to reach me: yasiramrr@hotmail.com  
 - 🌱 I’m currently learning about Machine learning, Web Developer and Ios Developer
 
-### Hard Skill
+### Tech Stack
 <!--Java
   <a href="https://www.java.com/en/"><img align="left" alt="Java" title="Java" width="16px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" /></a>-->
 <!--JavaSript-->
