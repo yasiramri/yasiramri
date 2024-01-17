@@ -7,7 +7,7 @@ I’m a 19 years old student at **Vocational School of IPB University** with maj
 - 📫 How to reach me: yasiramrr@hotmail.com  
 - 🌱 I’m currently learning about Machine learning, Web Developer and Ios Developer
 
-### Tech Stack
+## Tech Stack
 <!--Java
   <a href="https://www.java.com/en/"><img align="left" alt="Java" title="Java" width="16px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" /></a>-->
 <!--JavaSript-->
@@ -49,13 +49,18 @@ I’m a 19 years old student at **Vocational School of IPB University** with maj
 <br />
 <br />
 
-### Github Statistic
+## Github Statistic
 <p align="left">
 <a href="https://github.com/yasiramri">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yasiramri&show_icons=true&theme=shadow_blue&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yasiramri&layout=compact&langs_count=8&theme=shadow_blue"/>
 </a>
 </p>
+
+### Trophies
+<a href="https://github.com/yasiramri/github-profile-trophy">
+        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=yasiramri&row=4&theme=shadow_blue&no-frame=true"/>
+</a> 
 
 ## ##
 <p align="center">
