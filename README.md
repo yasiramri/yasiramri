@@ -49,6 +49,14 @@ I’m a 19 years old student at **Vocational School of IPB University** with maj
 <br />
 <br />
 
+### Github Statistic
+<p align="left">
+<a href="https://github.com/yasiramri">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yasiramri&show_icons=true&theme=shadow_blue&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yasiramri&layout=compact&langs_count=8&theme=shadow_blue"/>
+</a>
+</p>
+
 ## ##
 <p align="center">
   <i>You can connect with me here!</i>
