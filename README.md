@@ -8,6 +8,7 @@ I’m a 19 years old student at **Vocational School of IPB University** with maj
 - 🌱 I’m currently learning about Machine learning, Web Developer and Ios Developer
 
 ## Tech Stack
+<p align="center">
 <!--Java
   <a href="https://www.java.com/en/"><img align="left" alt="Java" title="Java" width="16px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" /></a>-->
 <!--JavaSript-->
@@ -45,7 +46,8 @@ I’m a 19 years old student at **Vocational School of IPB University** with maj
 <!--Blender-->
   <a href="https://www.blender.org" target="_blank"> <img align="left" alt="Blender" title="Blender" width="25px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/blender.png?raw=true"/> </a>
   <!--Unity-->
-  <a href="https://www.unity.com" target="_blank"> <img align="left" alt="Unity" title="Unity" width="25px" src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png"/> </a>
+  <a href="https://www.unity.com" target="_blank"> <img align="left" alt="Unity" title="Unity" width="25px" src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png"/> </a> 
+</p>
 <br />
 <br />
 
