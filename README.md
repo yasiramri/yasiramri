@@ -54,12 +54,13 @@ I’m a 19 years old student at **Vocational School of IPB University** with maj
 <a href="https://github.com/yasiramri">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yasiramri&show_icons=true&theme=shadow_blue&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yasiramri&layout=compact&langs_count=8&theme=shadow_blue"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=yasiramri&theme=transparent&hide_border=false"<br/>
 </a>
 </p>
 
 ### Trophies
 <a href="https://github.com/yasiramri/github-profile-trophy">
-        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=yasiramri&row=4&theme=shadow_blue&no-frame=true"/>
+        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=yasiramri&margin-w=15theme=dark"/>
 </a> 
 
 ## ##
