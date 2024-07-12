@@ -2,7 +2,7 @@
 
 Let me introduce myself. My name is **Muhammad Yasir Amri**.
 
-I’m a 19 years old student at **Vocational School of IPB University** with majoring **Software Engineering Technology**. I am an avid Software Enginer learner because I'm fascinated by all the things computers can do.I find myself regularly trying to learn new language and techniques that I can implement in my projects. I’m highly motivated to constantly develop skills and learning new things in every opportunities. Enthusiast in technology, and developing creative ways to solve problem. Javascript was the language I started programming and MySQl for Data Analyst. Machine learning and AI has sparked my interest lately and I've been attending bootcamps and webinars to learn more about this topic.
+I’m a 21 years old student at **Vocational School of IPB University** with majoring **Software Engineering Technology**. I am an avid Software Enginer learner because I'm fascinated by all the things computers can do.I find myself regularly trying to learn new language and techniques that I can implement in my projects. I’m highly motivated to constantly develop skills and learning new things in every opportunities. Enthusiast in technology, and developing creative ways to solve problem. Javascript was the language I started programming and MySQl for Data Analyst. Machine learning and AI has sparked my interest lately and I've been attending bootcamps and webinars to learn more about this topic.
 
 
 - 📫 How to reach me: yasiramrr@hotmail.com  
