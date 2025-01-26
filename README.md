@@ -14,28 +14,36 @@ I’m a 21 years old student at **Vocational School of IPB University** with maj
   <a href="https://www.java.com/en/"><img align="left" alt="Java" title="Java" width="16px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" /></a>-->
 <!--JavaSript-->
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-<!--NodeJS-->
-  <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="25px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
 <!--ReactJS-->
   <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="25px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-<!--NextJS
-  <a href="https://nextjs.org/"><img align="left" alt="Next" title="Next (React SSR Framework)" width="25px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>-->
-<!--Swift-->
-  <a href="https://www.swift.org/"><img align="left" alt="PHP" title="PHP" width="28px" src="https://developer.apple.com/swift/images/swift-og.png" /></a>
-<!--PHP-->
-  <a href="https://www.php.net/"><img align="left" alt="PHP" title="PHP" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" /></a>
-<!--Laravel
-  <a href="[https://www.php.net/](https://laravel.com/)"><img align="left" alt="Laravel" title="Laravel" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/240px-Laravel.svg.png" /></a>-->
-<!--Kotlin
-  <a href="#"><img align="left" alt="Kotlin" title="Kotlin" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" /></a>-->
+<!--NextJS-->
+  <a href="https://nextjs.org/"><img align="left" alt="Next" title="Next (React SSR Framework)" width="40px" src="https://images.prismic.io/turing/652ec31afbd9a45bcec81965_Top_Features_in_Next_js_13_7f9a32190f.webp?auto=format,compress" /></a>
+<!--NodeJS-->
+  <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="25px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
+<!--ExpressJS-->
+  <a href="https://expressjs.org/"><img align="left" alt="ExpressJS" title="ExpressJS" width="80px" src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" /></a>
+<!--Angular-->
+  <a href="https://angular.dev/"><img align="left" alt="Angular" title="Angular" width="95px" src="https://w3earth.wordpress.com/wp-content/uploads/2024/03/angular-logo-1200-303.png" /></a>
+<!-- Prisma -->
+  <a href="https://prisma.io/"><img align="left" alt="prisma" title="Prisma ORM" width="80px" src="https://cf-assets.www.cloudflare.com/slt3lc6tev37/4WJkWMYGkEpa05B0hyL88E/91dd67e91752d39d94b60cdcdfdc287d/prismalogo-freelogovectors.net_.png" /></a>
+<!-- PostGres -->
+  <a href="https://postgresql.org/"><img align="left" alt="PostGresql" title="PostGresql" width="80px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidrk8lM4WCTZ2A3cxkjY5GP-QNz456sMgBm01xuaos9fDZR5sj_hPYvHwqfuprtWAyZI7-KxqTeRzyqynx9TTMeKRvbauKR5nrBUO9zUNqttVTu7_yET6Q_sljdmzSDlP_Sz_2dPFOAiU/s1600/PostgreSQL.png" /></a>
 <!--Python-->
-   <a href="https://www.python.org/"><img align="left" alt="Python" title="Python" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" /></a>
-<!--MySql-->
-   <a href="https://www.mysql.com/"><img align="left" alt="MySql" title="MySql" width="26px" src="https://www.citypng.com/public/uploads/preview/hd-mysql-dolphin-logo-sign-symbol-png-11662224927movyljfle3.png?v=2023070404" /></a>
+  <a href="https://www.python.org/"><img align="left" alt="Python" title="Python" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" /></a>
 <!--TensorFlow-->
    <a href="https://www.tensorflow.org/"><img align="left" alt="MySql" title="MySql" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png" /></a>
 <!--Figma-->
   <a href="https://www.adobe.com" target="_blank"> <img align="left" alt="Figma" title="Figma" width="16px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/800px-Figma-logo.svg.png?20190122211436"/> </a> 
+<!--Swift
+  <a href="https://www.swift.org/"><img align="left" alt="PHP" title="PHP" width="28px" src="https://developer.apple.com/swift/images/swift-og.png" /></a>-->
+<!--PHP-
+  <a href="https://www.php.net/"><img align="left" alt="PHP" title="PHP" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" /></a>-->
+<!--Laravel
+  <a href="[https://www.php.net/](https://laravel.com/)"><img align="left" alt="Laravel" title="Laravel" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/240px-Laravel.svg.png" /></a>-->
+<!--Kotlin
+  <a href="#"><img align="left" alt="Kotlin" title="Kotlin" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" /></a>-->
+<!--MySql
+   <a href="https://www.mysql.com/"><img align="left" alt="MySql" title="MySql" width="26px" src="https://www.citypng.com/public/uploads/preview/hd-mysql-dolphin-logo-sign-symbol-png-11662224927movyljfle3.png?v=2023070404" /></a>-->
 <!--Pr-->
   <a href="https://www.adobe.com" target="_blank"> <img align="left" alt="Premiere" title="Premiere Pro" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1024px-Adobe_Premiere_Pro_CC_icon.svg.png"/> </a>
 <!--AE-->
@@ -46,8 +54,8 @@ I’m a 21 years old student at **Vocational School of IPB University** with maj
   <a href="https://www.adobe.com" target="_blank"> <img align="left" alt="Illustrator" title="Illustrator" width="25px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a> 
 <!--Blender-->
   <a href="https://www.blender.org" target="_blank"> <img align="left" alt="Blender" title="Blender" width="25px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/blender.png?raw=true"/> </a>
-  <!--Unity-->
-  <a href="https://www.unity.com" target="_blank"> <img align="left" alt="Unity" title="Unity" width="25px" src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png"/> </a> 
+<!--Unity-->
+<!--   <a href="https://www.unity.com" target="_blank"> <img align="left" alt="Unity" title="Unity" width="25px" src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png"/> </a> -->
 </p>
 <br />
 <br />
