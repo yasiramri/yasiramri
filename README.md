@@ -45,15 +45,15 @@ I’m a 21 years old student at **Vocational School of IPB University** with maj
 <!--MySql
    <a href="https://www.mysql.com/"><img align="left" alt="MySql" title="MySql" width="26px" src="https://www.citypng.com/public/uploads/preview/hd-mysql-dolphin-logo-sign-symbol-png-11662224927movyljfle3.png?v=2023070404" /></a>-->
 <!--Pr-->
-  <a href="https://www.adobe.com" target="_blank"> <img align="left" alt="Premiere" title="Premiere Pro" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1024px-Adobe_Premiere_Pro_CC_icon.svg.png"/> </a>
+<!--   <a href="https://www.adobe.com" target="_blank"> <img align="left" alt="Premiere" title="Premiere Pro" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1024px-Adobe_Premiere_Pro_CC_icon.svg.png"/> </a> -->
 <!--AE-->
-  <a href="https://www.adobe.com" target="_blank"> <img align="left" alt="After" title="After Effect" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1200px-Adobe_After_Effects_CC_icon.svg.png"/>
+<!--   <a href="https://www.adobe.com" target="_blank"> <img align="left" alt="After" title="After Effect" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1200px-Adobe_After_Effects_CC_icon.svg.png"/> -->
 <!--Ps-->
-  <a href="https://www.adobe.com" target="_blank"> <img align="left" alt="Photoshop" title="Photoshop" width="25px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
+<!--   <a href="https://www.adobe.com" target="_blank"> <img align="left" alt="Photoshop" title="Photoshop" width="25px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a> -->
 <!--Ai-->
-  <a href="https://www.adobe.com" target="_blank"> <img align="left" alt="Illustrator" title="Illustrator" width="25px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a> 
+<!--   <a href="https://www.adobe.com" target="_blank"> <img align="left" alt="Illustrator" title="Illustrator" width="25px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a>  -->
 <!--Blender-->
-  <a href="https://www.blender.org" target="_blank"> <img align="left" alt="Blender" title="Blender" width="25px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/blender.png?raw=true"/> </a>
+<!--   <a href="https://www.blender.org" target="_blank"> <img align="left" alt="Blender" title="Blender" width="25px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/blender.png?raw=true"/> </a> -->
 <!--Unity-->
 <!--   <a href="https://www.unity.com" target="_blank"> <img align="left" alt="Unity" title="Unity" width="25px" src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png"/> </a> -->
 </p>
