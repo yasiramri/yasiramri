@@ -62,16 +62,16 @@ I’m a 21 years old student at **Vocational School of IPB University** with maj
   <i>You can connect with me here!</i>
 <!--Mail-->
   <p align="center">
-     <a href="mailto:yasiramrr@hotmail.com" alt="Mail title="Mail"><img height="38" width="38" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+     <a href="mailto:yasiramrr@hotmail.com" alt="Mail title="Mail"><img height="38" width="38" src="https://skillicons.dev/icons?i=gmail" /></a>
 <!--Linkedin-->
-    <a href="https://www.linkedin.com/in/yasiramrr" alt="Linkedin" title="Linkedin"><img height="38" width="38" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+    <a href="https://www.linkedin.com/in/yasiramrr" alt="Linkedin" title="Linkedin"><img height="38" width="38" src="https://skillicons.dev/icons?i=linkedin" /></a>
 <!--Github-->
-    <a href="https://github.com/yasiramri" alt="GitHub" title="GitHub"><img height="38" width="38" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
+    <a href="https://github.com/yasiramri" alt="GitHub" title="GitHub"><img height="38" width="38" src="https://skillicons.dev/icons?i=github" /></a>
     <!--Instagram-->
-     <a href="https://instagram.com/yasiramrr" alt="Instagram" title="Instagram"><img height="38" width="38" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-<!--Behance-->
-     <a href="https://www.behance.net/yasiramrr" alt="Behance" title="Behance"><img height="38" width="38" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" /></a>
-  </p>
+     <a href="https://instagram.com/yasiramrr" alt="Instagram" title="Instagram"><img height="38" width="38" src="https://skillicons.dev/icons?i=instagram" /></a>
+<!--Behance
+     <a href="https://www.behance.net/yasiramrr" alt="Behance" title="Behance"><img height="38" width="38" src="https://skillicons.dev/icons?i=behance" /></a>
+  </p> -->
 </p>
 
 <!--
