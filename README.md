@@ -13,6 +13,7 @@ I’m a 21 years old student at **Vocational School of IPB University** with maj
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/Python-white?style=plastic&logo=python)
 ![Go Language](https://img.shields.io/badge/GO-00ADD8?style=plastic&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-091?style=plastic&logo=docker&color=white)
 ![Swift](https://img.shields.io/badge/Swift-FE4D32?style=plastic&logo=swift&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) 
