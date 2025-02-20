@@ -11,11 +11,13 @@ I’m a 21 years old student at **Vocational School of IPB University** with maj
 ## Tech Stack
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
+![Redis](https://img.shields.io/badge/redis-FF685D?style=plastic&logo=redis&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-white?style=plastic&logo=python)
 ![Go Language](https://img.shields.io/badge/GO-00ADD8?style=plastic&logo=go&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-091?style=plastic&logo=docker&color=white)
 ![Swift](https://img.shields.io/badge/Swift-FE4D32?style=plastic&logo=swift&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) 
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-white?style=plastic&logo=rabbitmq&logoColor=F76300)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) 
 ![Angular](https://img.shields.io/badge/Angular-FA56F7?style=plastic&logo=angular&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) 
